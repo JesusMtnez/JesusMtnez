@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img width="144px" style="border-radius: 50%" src="images/avatar.jpg" >
+<img width="300px" src="images/profile.png" >
 
 # JesusMtnez
 
